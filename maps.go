@@ -7,7 +7,7 @@ import (
 func main() {
 	// keys and values have to be the same type
 	stocks := map[string]float64{
-		"AMzN": 1699.8,
+		"AMZN": 1699.8,
 		"GOOG": 1129.19,
 		"MSFT": 98.61,
 	}
